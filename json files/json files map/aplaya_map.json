@@ -1,0 +1,388 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "name": "index",
+                "type": "integer"
+            },
+            {
+                "name": "Date",
+                "type": "datetime"
+            },
+            {
+                "name": "Monthly Water Consumption (in cubic meters)",
+                "type": "number"
+            },
+            {
+                "name": "Barangay",
+                "type": "string"
+            }
+        ],
+        "primaryKey": [
+            "index"
+        ],
+        "pandas_version": "0.20.0"
+    },
+    "data": [
+        {
+            "index": 0,
+            "Date": "2016-01-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 3861478.53,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 1,
+            "Date": "2016-02-29T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 4633774.23,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 2,
+            "Date": "2016-03-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6950661.35,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 3,
+            "Date": "2016-04-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 5406069.94,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 4,
+            "Date": "2016-05-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6178365.65,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 5,
+            "Date": "2016-06-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 3861478.53,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 6,
+            "Date": "2016-07-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 3861478.53,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 7,
+            "Date": "2016-08-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 4633774.23,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 8,
+            "Date": "2016-09-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 17762801.24,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 9,
+            "Date": "2016-10-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 5406069.94,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 10,
+            "Date": "2016-11-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 3089182.82,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 11,
+            "Date": "2016-12-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 11584435.59,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 12,
+            "Date": "2017-01-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 3209366.97,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 13,
+            "Date": "2017-02-28T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 4814050.45,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 14,
+            "Date": "2017-03-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 7221075.68,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 15,
+            "Date": "2017-04-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 5616392.2,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 16,
+            "Date": "2017-05-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6418733.94,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 17,
+            "Date": "2017-06-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 3209366.97,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 18,
+            "Date": "2017-07-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 3209366.97,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 19,
+            "Date": "2017-08-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6418733.94,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 20,
+            "Date": "2017-09-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 19256201.82,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 21,
+            "Date": "2017-10-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 5616392.2,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 22,
+            "Date": "2017-11-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 3209366.97,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 23,
+            "Date": "2017-12-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 12035126.14,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 24,
+            "Date": "2018-01-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6861652.82,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 25,
+            "Date": "2018-02-28T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 5146239.62,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 26,
+            "Date": "2018-03-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 7719359.43,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 27,
+            "Date": "2018-04-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6003946.22,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 28,
+            "Date": "2018-05-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6861652.82,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 29,
+            "Date": "2018-06-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6861652.82,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 30,
+            "Date": "2018-07-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6861652.82,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 31,
+            "Date": "2018-08-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6003946.22,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 32,
+            "Date": "2018-09-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 11150185.84,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 33,
+            "Date": "2018-10-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6003946.22,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 34,
+            "Date": "2018-11-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 3430826.41,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 35,
+            "Date": "2018-12-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 12865599.05,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 36,
+            "Date": "2019-01-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 5457562.51,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 37,
+            "Date": "2019-02-28T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 5457562.51,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 38,
+            "Date": "2019-03-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 8186343.77,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 39,
+            "Date": "2019-04-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6367156.26,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 40,
+            "Date": "2019-05-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 7276750.02,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 41,
+            "Date": "2019-06-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 5457562.51,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 42,
+            "Date": "2019-07-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 5457562.51,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 43,
+            "Date": "2019-08-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 5457562.51,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 44,
+            "Date": "2019-09-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 19101468.8,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 45,
+            "Date": "2019-10-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 5457562.51,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 46,
+            "Date": "2019-11-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 3638375.01,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 47,
+            "Date": "2019-12-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 13643906.28,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 48,
+            "Date": "2020-01-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6367156.26,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 49,
+            "Date": "2020-02-29T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 5457562.51,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 50,
+            "Date": "2020-03-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 8186343.77,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 51,
+            "Date": "2020-04-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6367156.26,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 52,
+            "Date": "2020-05-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 7276750.02,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 53,
+            "Date": "2020-06-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6367156.26,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 54,
+            "Date": "2020-07-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6367156.26,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 55,
+            "Date": "2020-08-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6367156.26,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 56,
+            "Date": "2020-09-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 16372687.54,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 57,
+            "Date": "2020-10-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 4547968.76,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 58,
+            "Date": "2020-11-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 3638375.01,
+            "Barangay": "Aplaya"
+        },
+        {
+            "index": 59,
+            "Date": "2020-12-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 13643906.28,
+            "Barangay": "Aplaya"
+        }
+    ]
+}
