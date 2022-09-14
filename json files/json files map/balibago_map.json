@@ -1,0 +1,388 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "name": "index",
+                "type": "integer"
+            },
+            {
+                "name": "Date",
+                "type": "datetime"
+            },
+            {
+                "name": "Monthly Water Consumption (in cubic meters)",
+                "type": "number"
+            },
+            {
+                "name": "Barangay",
+                "type": "string"
+            }
+        ],
+        "primaryKey": [
+            "index"
+        ],
+        "pandas_version": "0.20.0"
+    },
+    "data": [
+        {
+            "index": 0,
+            "Date": "2016-01-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 10770788.0,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 1,
+            "Date": "2016-02-29T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 9232104.0,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 2,
+            "Date": "2016-03-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 13848156.0,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 3,
+            "Date": "2016-04-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 10770788.0,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 4,
+            "Date": "2016-05-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 12309472.0,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 5,
+            "Date": "2016-06-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 10770788.0,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 6,
+            "Date": "2016-07-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 10770788.0,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 7,
+            "Date": "2016-08-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 7693420.0,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 8,
+            "Date": "2016-09-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 29234996.01,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 9,
+            "Date": "2016-10-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 9232104.0,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 10,
+            "Date": "2016-11-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6154736.0,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 11,
+            "Date": "2016-12-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 23080260.01,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 12,
+            "Date": "2017-01-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 7992731.23,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 13,
+            "Date": "2017-02-28T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 9591277.47,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 14,
+            "Date": "2017-03-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 14386916.21,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 15,
+            "Date": "2017-04-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 11189823.72,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 16,
+            "Date": "2017-05-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 12788369.96,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 17,
+            "Date": "2017-06-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 7992731.23,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 18,
+            "Date": "2017-07-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 7992731.23,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 19,
+            "Date": "2017-08-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6394184.98,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 20,
+            "Date": "2017-09-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 44759294.88,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 21,
+            "Date": "2017-10-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6394184.98,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 22,
+            "Date": "2017-11-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6394184.98,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 23,
+            "Date": "2017-12-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 23978193.68,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 24,
+            "Date": "2018-01-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 8544262.36,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 25,
+            "Date": "2018-02-28T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 10253114.83,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 26,
+            "Date": "2018-03-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 15379672.25,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 27,
+            "Date": "2018-04-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 11961967.31,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 28,
+            "Date": "2018-05-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 13670819.78,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 29,
+            "Date": "2018-06-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 8544262.36,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 30,
+            "Date": "2018-07-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 8544262.36,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 31,
+            "Date": "2018-08-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 8544262.36,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 32,
+            "Date": "2018-09-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 39303606.87,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 33,
+            "Date": "2018-10-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 13670819.78,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 34,
+            "Date": "2018-11-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 6835409.89,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 35,
+            "Date": "2018-12-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 25632787.09,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 36,
+            "Date": "2019-01-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 14497839.02,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 37,
+            "Date": "2019-02-28T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 10873379.26,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 38,
+            "Date": "2019-03-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 16310068.9,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 39,
+            "Date": "2019-04-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 12685609.14,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 40,
+            "Date": "2019-05-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 14497839.02,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 41,
+            "Date": "2019-06-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 14497839.02,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 42,
+            "Date": "2019-07-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 14497839.02,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 43,
+            "Date": "2019-08-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 12685609.14,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 44,
+            "Date": "2019-09-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 23558988.41,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 45,
+            "Date": "2019-10-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 12685609.14,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 46,
+            "Date": "2019-11-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 7248919.51,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 47,
+            "Date": "2019-12-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 27183448.17,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 48,
+            "Date": "2020-01-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 9420384.52,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 49,
+            "Date": "2020-02-29T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 11304461.43,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 50,
+            "Date": "2020-03-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 16956692.14,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 51,
+            "Date": "2020-04-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 13188538.33,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 52,
+            "Date": "2020-05-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 15072615.24,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 53,
+            "Date": "2020-06-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 9420384.52,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 54,
+            "Date": "2020-07-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 9420384.52,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 55,
+            "Date": "2020-08-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 13188538.33,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 56,
+            "Date": "2020-09-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 45217845.71,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 57,
+            "Date": "2020-10-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 9420384.52,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 58,
+            "Date": "2020-11-30T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 7536307.62,
+            "Barangay": "Balibago"
+        },
+        {
+            "index": 59,
+            "Date": "2020-12-31T00:00:00.000Z",
+            "Monthly Water Consumption (in cubic meters)": 28261153.57,
+            "Barangay": "Balibago"
+        }
+    ]
+}
